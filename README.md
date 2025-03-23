@@ -1,5 +1,5 @@
 <div align="center">
-    <!-- <img src="/Users/el/Desktop/js/2025/brainwave/src/assets/readme.png" alt="Project Banner"> -->
+    <img src="./src/assets/readme.png" alt="Project Banner">
 </div>
     ![Project Banner](src/assets/readme.png)
 
