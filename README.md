@@ -16,7 +16,7 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
 
-👉 **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling. ScrollParallax - nice effect while. scrolling. MouseParallax - moving background colored circle balls.
+👉 **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling. ScrollParallax - nice effect while scrolling. MouseParallax - moving background colored circle balls.
 
 👉 **Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
 
