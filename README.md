@@ -1,7 +1,7 @@
 <div align="center">
     <!-- <img src="/Users/el/Desktop/js/2025/brainwave/src/assets/readme.png" alt="Project Banner"> -->
-    ![Project Banner](src/assets/readme.png)
 </div>
+    ![Project Banner](src/assets/readme.png)
 
 ## <a name="introduction">🤖 Description</a>
 
