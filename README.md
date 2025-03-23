@@ -1,7 +1,6 @@
 <div align="center">
     <img src="./src/assets/readme.png" alt="Project Banner">
 </div>
-    ![Project Banner](src/assets/readme.png)
 
 ## <a name="introduction">🤖 Description</a>
 
